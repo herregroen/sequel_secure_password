@@ -9,15 +9,11 @@ This plugin was created by extracting `has_secure_password` strategy from rails.
 
 Add this line to your application's Gemfile:
 
-    gem 'sequel_secure_password'
+    gem 'sequel_secure_password', git: 'git@github.com:herregroen/sequel_secure_password.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install sequel_secure_password
 
 ## Usage
 
