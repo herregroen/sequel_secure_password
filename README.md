@@ -9,7 +9,7 @@ This plugin was created by extracting `has_secure_password` strategy from rails.
 
 Add this line to your application's Gemfile:
 
-    gem 'sequel_secure_password', git: 'git@github.com:herregroen/sequel_secure_password.git'
+    gem 'sequel_secure_password', git: 'git@github.com:herregroen/sequel_secure_password.git', branch: 'no_confirmation_validation'
 
 And then execute:
 
